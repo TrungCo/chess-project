@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1744592309 source:d:\hoc\ltnc\project game\chess platium\main.cpp
+	"Render_image.h"
+	"Moving.h"
+	"Core_basic.h"
+	"Chess_Convert_Commend.h"
+	"Stock_Fish_Connector.h"
+
+1741917665 source:d:\hoc\ltnc\project game\chess platium\render_image.cpp
+	"Render_image.h"
+
+1741917665 d:\hoc\ltnc\project game\chess platium\render_image.h
+	"Start_prog.h"
+
+1740708701 d:\hoc\ltnc\project game\chess platium\move.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1740618903 source:d:\hoc\ltnc\project game\chess platium\move.cpp
+	"Move.h"
+
+1742957098 source:d:\hoc\ltnc\project game\chess platium\moving.cpp
+	"Moving.h"
+
+1742957185 d:\hoc\ltnc\project game\chess platium\moving.h
+	"Start_prog.h"
+
+1741918651 d:\hoc\ltnc\project game\chess platium\start_prog.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<cstdio>
+	<cstdlib>
+	<vector>
+
+1744335999 source:d:\hoc\ltnc\project game\chess platium\core_basic.cpp
+	"Core_basic.h"
+
+1743129923 d:\hoc\ltnc\project game\chess platium\core_basic.h
+	"Start_prog.h"
+
+1743561349 d:\hoc\ltnc\project game\chess platium\chess_convert_commend.h
+	"Start_prog.h"
+
+1741328987 d:\hoc\ltnc\project game\chess platium\stock_fish_connector.h
+	"Start_prog.h"
+
+1746459707 source:d:\hoc\ltnc\github game\chess-project\core_basic.cpp
+	"Core_basic.h"
+
+1743129923 d:\hoc\ltnc\github game\chess-project\core_basic.h
+	"Start_prog.h"
+
+1746251463 d:\hoc\ltnc\github game\chess-project\start_prog.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<string>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<cstdio>
+	<cstdlib>
+	<vector>
+	<cctype>
+
+1746459939 source:d:\hoc\ltnc\github game\chess-project\main.cpp
+	"Render_image.h"
+	"Moving.h"
+	"Core_basic.h"
+	"Chess_Convert_Commend.h"
+	"Stock_Fish_Connector.h"
+	"Game_starting.h"
+
+1741917665 d:\hoc\ltnc\github game\chess-project\render_image.h
+	"Start_prog.h"
+
+1746250452 d:\hoc\ltnc\github game\chess-project\moving.h
+	"Start_prog.h"
+	"Render_image.h"
+
+1743561349 d:\hoc\ltnc\github game\chess-project\chess_convert_commend.h
+	"Start_prog.h"
+
+1745382031 d:\hoc\ltnc\github game\chess-project\stock_fish_connector.h
+	"Start_prog.h"
+
+1746454671 source:d:\hoc\ltnc\github game\chess-project\moving.cpp
+	"Moving.h"
+
+1741917665 source:d:\hoc\ltnc\github game\chess-project\render_image.cpp
+	"Render_image.h"
+
+1746458450 d:\hoc\ltnc\github game\chess-project\game_starting.h
+	"Start_prog.h"
+	"Render_image.h"
+

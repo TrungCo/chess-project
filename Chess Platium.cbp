@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Chess Platium" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Chess Platium" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Chess Platium" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Chess_Convert_Commend.h" />
+		<Unit filename="Core_basic.cpp" />
+		<Unit filename="Core_basic.h" />
+		<Unit filename="Game_starting.h" />
+		<Unit filename="Moving.cpp" />
+		<Unit filename="Moving.h" />
+		<Unit filename="Render_image.cpp" />
+		<Unit filename="Render_image.h" />
+		<Unit filename="Start_prog.h" />
+		<Unit filename="Stock_Fish_Connector.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="stockfish.exe" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
